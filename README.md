@@ -9,6 +9,7 @@ This repository contains Playwright and TypeScript practice exercises.
 - Node.js
 - Git
 
+
 ## Getting Started
 
 Install dependencies:
